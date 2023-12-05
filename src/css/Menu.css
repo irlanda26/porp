@@ -1,0 +1,51 @@
+.logo{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    min-width: 30px;
+    min-height: 30px;
+    font-size: 2rem;
+}
+.logo:hover{
+    color: white;
+}
+.logosi{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 900px;
+    background-color: aliceblue;
+    align-self: center;
+    margin-top: 2%;
+    border-radius: 20px;
+    transition: 1s;
+}
+.nav:hover{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    width: 1000px;
+    background-color: turquoise;
+    align-self: center;
+    margin-top: 2%;
+    box-shadow: 10% orange;
+    border-radius: 30px;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,52 @@
+.contenedor{
+    width: 400px;
+    height: 300px;
+    margin: 50px 50px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fefefe;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 50%);
+}
+
+.contenedor-texto{
+    text-align: center;
+    padding: 40px;
+    font-family: cursive;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+.nombre-testimonio{
+    font-size: 1.3rem;
+}
+.cargo-testimonio{
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+.texto-testimonio{
+    font-size: 1.1rem;
+    text-align: justify;
+}
+.botone{
+    margin-top: 2%;
+    font-size: xx-large;
+    background-color: orange;
+    transition: 1s ease-in-out;
+}
+.botone:hover{
+    background-color: rgba(255, 166, 0, 0.699);
+    width: 320px;
+    height: 120px;
+}
+.contenedor-rutinas{
+    padding: 20px;
+    background-color: orange;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 80px 50px 100px 50px;
+    height: auto;
+    border-radius: 15px;
+}

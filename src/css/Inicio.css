@@ -1,0 +1,51 @@
+html,*{
+    background-color: rgb(20, 20, 20);
+
+}
+     .contenedor-introduccion{
+       margin-top: 50px;
+       display: flex;
+       align-items:center;
+       justify-content: center;
+       align-content: center;
+     }
+   .texto-introduccion{
+     background-color: rgb(20, 20, 20);
+   }
+   .texto-int{
+     border: seagreen solid 5px;
+     border-radius: 5px;
+     background-color: rgb(20, 20, 20);
+     margin-left: 50px;
+     margin-right: 50px;
+     width: 25vw;
+     text-align: start;
+     display: block;
+     font-size: 3.5vh;
+     font-weight: bolder;
+     color: white;
+     min-width: 20vw;
+   }
+   .imgleo{
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-bottom: 50px;
+     width: 550px;
+     height: 550px;
+   }
+   .contenedor-redes{
+    align-items: center;
+    justify-content: center;
+    display: block;
+    margin: auto;
+   }
+   .texto-redes{
+    color: transparent;
+    font-size: 4.5rem;
+    -webkit-text-stroke: 2px white;
+   }
+.iconos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

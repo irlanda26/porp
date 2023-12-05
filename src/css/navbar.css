@@ -1,0 +1,55 @@
+.divdivisor{
+    background-color: rgb(20, 20, 20);
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: flex;
+}
+.navbardiv{
+ /*   background-color: #7D7C7C;*/
+    /*background-color: #CCC8AA;*/
+        background-color: rgb(20, 20, 20);
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        align-items: center;
+        display: flex;
+}
+.btn-navbar{
+    width: 150px;
+    height: 45px;
+    border: solid 2px seagreen;
+    margin: 10px;
+    font-size: 1.5rem;
+    border-radius: 15px;
+    /*background-color: seagreen;*/
+    background-color: rgb(20, 20, 20);
+    color: white;
+    text-decoration: none;
+    
+}
+.btn-navbar:hover{
+    transition: .4s;
+    width: 155px;
+    height: 50px;
+    border: solid 3px seagreen;
+    margin: 5px;
+    font-size: 1.7rem;
+    color: seagreen;
+    background-color: rgb(20, 20, 20);
+
+}
+.btn-navbar:visited{
+    width: 150px;
+    height: 35px;
+    border: solid 2px seagreen;
+    margin: 5px;
+    font-size: 3vh;
+    border-radius: 15px;
+    /*background-color: seagreen;*/
+    background-color: rgb(20, 20, 20);
+    color: white;
+    text-decoration: none;
+    
+}
